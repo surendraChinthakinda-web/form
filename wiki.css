@@ -1,0 +1,41 @@
+.bg-container{
+    background-color: white;
+    height: 100vh;
+    padding: 30px;
+    border-radius: 5px;
+}
+.search-result{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.sec-bg-coontainer{
+    text-align: center;
+}
+.wiki-imge{
+    width: 600px;
+    height: 300px
+}
+.name-heading{
+    font-family: "Roboto";
+    font-style: italic;
+    color: rgb(12, 229, 37);
+}
+.ineer-container{
+    margin-bottom: 5px;
+}
+.user-inputs{
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 4px;
+}
+.title-heading{
+    font-size: 22px;
+    margin-top: 5px;
+    color: rgb(50, 80, 200);
+}
+.link-heading{
+    color: rgb(57, 137, 57);
+}
+.desc-heading{
+    font-family: "Roboto";
+}

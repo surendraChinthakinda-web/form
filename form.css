@@ -1,0 +1,25 @@
+.heading{
+    font-family: "Roboto";
+    font-weight: bold;
+    text-align: center;
+    color: rgb(247, 195, 7);
+}
+.input-user{
+   border-radius: 4px;
+   border-color: #0d0d0d;
+   border-width: 1px;
+   border-style: solid;
+}
+.label-heading{
+    font-size: 22px;
+    color: rgb(15, 22, 235);
+}
+.err-heading{
+    color: crimson;
+}
+.selecting-points{
+    font-size: 150;
+}
+.male-head{
+    padding-right: 21px;
+}

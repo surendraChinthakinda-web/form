@@ -1,0 +1,9 @@
+.bg-container{
+    background-color: aquamarine;
+    height: 100vh;
+    text-align: center;
+    padding: 100px;
+}
+.heading{
+    color: brown;
+}

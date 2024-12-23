@@ -1,0 +1,39 @@
+.bg-container{
+    padding: 20px;
+    margin: 0px;
+    background-color: #c7e4f1;
+    height: 100vh;
+}
+.heading{
+    text-align: center;
+    font-family: "Roboto";
+    font-size: 46px;
+    font-weight: 500;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.create-task-heading{
+   font-family: "Roboto";
+   font-size: 32px;
+   font-weight: 700;
+}
+.create-task-heading-subpart{
+   font-family: "Roboto";
+   font-size: 32px;
+   font-weight: 500;
+}
+.todo-user-input{
+    background-color: #dbf1f4;
+    width: 100%;
+    border-width: 0px;
+    border-radius: 8px;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+.add-todo-button{
+    background-color: cornflowerblue;
+    padding: 5px;
+    border-radius: 7px;
+    border-width: 0px;
+    width: 10%;
+}
